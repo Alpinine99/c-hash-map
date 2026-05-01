@@ -1,5 +1,4 @@
-#include <hashmap.h>
-
+#include <dict.h>
 
 typedef struct HashEntry {
     char *key;

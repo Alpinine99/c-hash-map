@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <hashmap.h>
+#include <dict.h>
 
 
 int main() {
